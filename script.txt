@@ -1,3 +1,5 @@
+another change up here
+
 type some text in this file to demonstrate version tracking
 Type some text in this file to demonstrate version tracking.
 
@@ -6,6 +8,6 @@ then type some stuff on another line as well
 
 and another as well
 
-just some more stuff
+this might look different
 
 write another line

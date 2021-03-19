@@ -4,4 +4,6 @@ Type some text in this file to demonstrate version tracking.
 then also type some stuff on another line
 then type some stuff on another line as well
 
-and another as well
+and another as welland another as well
+
+just some more stuff
